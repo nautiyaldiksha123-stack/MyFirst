@@ -62,7 +62,7 @@ My current focus lies at the intersection of:
 
 Participated in **AlgoVerse'26 Hackathon** organized by **Bharti Vidyapeeth College of Engineering, Pune**.
 
-Our team **Syntax Squad** built:
+Our team **Syntax Squad** was selected for **Final Round** , we built:
 
 > **AuditPay — Payment Logging & Audit Infrastructure**
 
